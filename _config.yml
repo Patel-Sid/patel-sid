@@ -2,11 +2,11 @@
 title: Siddharth Patel
 description: Welcome to my personal website!
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
-url: "http://www.individual.utoronto.ca/sidpatel/"
+# url: "http://www.individual.utoronto.ca/sidpatel/"
 
 # User settings
 username: Siddharth Patel
-user_description: Hello there! I'm a 3rd year University of Toronto student pursuing a BSc. in Computer Science - Specialist Entrepreneurship stream. Currently I'm working as a Software Developer at RBC. When I'm not busy writing complex algorithms for my assignment you can find me tinkering with my car or getting those six packs at the gym. Want to work together? I’d love to hear from you.
+user_description: Hello there! I'm a 3rd year University of Toronto student pursuing a BSc. in Computer Science - Specialist Entrepreneurship stream. Currently I'm working as a Software Developer at RBC. When I'm not busy writing complex algorithms for my assignment you can find me tinkering with my car or getting those six packs at the gym. My great WOW moment: Getting a TA offer while I was in my second year and teaching a Comp Sci course to first year students! Want to work together? I’d love to hear from you.
 user_title: Software Developer
 email: sid.patel@mail.utoronto.ca
 github_username: Patel-Sid
