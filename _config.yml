@@ -6,20 +6,7 @@ description: Welcome to my personal website!
 
 # User settings
 username: Siddharth Patel
-user_description: I’m a fourth-year student doing a specialist in the CS Entrepreneurship stream at
-University of Toronto Scarborough. Currently I’m working as a Full Stack Dev which is a
-work study position with the department of psychology at UTSC. I’m responsible for
-both the backend and frontend of the peerScholar application which is built using the
-JavaScript framework VueJS and makes use of mySQL and graphQL. My first “wow”
-moment at university was landing a TA position for CSCA08 in my second year, it was
-an amazing opportunity which opened many doors for me. After that, I worked as an
-Automation Analyst at RBC for four months and developed XML converter utility for the
-company which gave them ROI of $4000/month! I decided to switch teams within the
-company as I loved the work culture and was offered a Software Developer position
-where I gained a lot of DevOps experience. My work included supporting complex
-infrastructure management applications with REST and SOAP based API frameworks.
-But when I’m not busy writing complex algorithms for my assignments you can either
-find me tinkering with my car or getting those six packs at the gym. Want to work together? I would love to hear back from you!
+user_description: I’m a fourth-year student doing a specialist in the CS Entrepreneurship stream at University of Toronto Scarborough. Currently I’m working as a Full Stack Dev which is a work study position with the department of psychology at UTSC. I’m responsible for both the backend and frontend of the peerScholar application which is built using the JavaScript framework VueJS and makes use of mySQL and graphQL. My first “wow” moment at university was landing a TA position for CSCA08 in my second year, it was an amazing opportunity which opened many doors for me. After that, I worked as an Automation Analyst at RBC for four months and developed XML converter utility for the company which gave them ROI of $4000/month! I decided to switch teams within the company as I loved the work culture and was offered a Software Developer position where I gained a lot of DevOps experience. My work included supporting complex infrastructure management applications with REST and SOAP based API frameworks. But when I’m not busy writing complex algorithms for my assignments you can either find me tinkering with my car or getting those six packs at the gym. Want to work together? I would love to hear back from you!
 user_title: Software Developer
 email: sid.patel@mail.utoronto.ca
 github_username: Patel-Sid
